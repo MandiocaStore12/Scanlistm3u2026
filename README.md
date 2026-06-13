@@ -2,8 +2,7 @@
 Para escanear listas m3u a toda maquina, 10 de 10 que salen resulatados
 
 
-git clone https://github.com/MandiocaStore12/Scanlistm3u
-2026
+git clone https://github.com/MandiocaStore12/Scanlistm3u2026
 
 ls
 
